@@ -1,0 +1,8 @@
+python-dotenv
+pandas
+requests
+google-generativeai
+tqdm
+validators
+beautifulsoup4
+lxml
